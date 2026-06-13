@@ -310,14 +310,3 @@ Potential enhancements include:
 
 ---
 
-# Author
-
-Developed as part of a Digital Twin / RAG-based AI Agent project.
-
-Scientist Simulated: Stephen Hawking
-
-Model: Gemini 2.5 Flash
-
-Framework: Streamlit
-
-Vector Database: ChromaDB
